@@ -45,3 +45,14 @@ As you might have guessed from the title, my name is Matusevich Sevastsyan. I am
     * Junior Swift developer (Internship)
 * 2020 - 2020
     * JSC "Priorbank" (Marketing department)
+
+### Education:
+
+* 2017 - 2021
+    * BSUIR (Faculty of Engineering and Econimics)
+* 2021 - present
+    * The rolling scopes school (Front-end developer)
+
+### English level:
+
+The EFSET test told me that my English level is B1. In principle, I almost agree with this :)
